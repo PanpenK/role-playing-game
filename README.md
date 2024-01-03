@@ -42,4 +42,4 @@ Follow the on-screen instructions to navigate and interact with the game.
 
 ## Acknowledgements
 
-This project was inspired by a freeCodeCamp challenge.
+This project is a freeCodeCamp challenge.
