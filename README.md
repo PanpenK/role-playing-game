@@ -31,6 +31,9 @@ Event handling: Captured user input (buttons, clicks) and triggered appropriate 
 Game development concepts: Applied programming concepts to create a simple but engaging game experience.
 Project structure: Organized code into files and functions for better readability and maintainability.
 
+## Styling Customization
+In the spirit of personalization, I have taken the initiative to alter the styling from the original freeCodeCamp look. The visual aesthetics have been tailored to reflect my unique style and preferences.
+
 ## How to Play
 
 Clone this repository.
